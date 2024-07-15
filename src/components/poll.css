@@ -1,0 +1,41 @@
+.poll-carousel {
+    margin-top: 20px;
+  }
+  
+  .poll-options {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .option-button {
+    margin: 5px;
+    padding: 8px 16px;
+    border: none;
+    background-color: #f50057; /* Myntra's pinkish theme color */
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .option-button:hover {
+    background-color: #ff4081; /* Lighter shade of Myntra's pink */
+  }
+  
+  .option-button:focus {
+    outline: none;
+  }
+  
+  .option-button:active {
+    transform: scale(0.95);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .poll-carousel img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  

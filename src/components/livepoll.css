@@ -1,0 +1,88 @@
+/* livepoll.css */
+
+.live-poll-container {
+    margin-top: 20px;
+    padding: 30px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .intro-text {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .intro-text h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .intro-text p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .poll-carousel {
+    max-width: 50%;
+    margin-top: 30px;
+  }
+  
+  .poll-carousel img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .result-container {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .result-container h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .result-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .result-container li {
+    margin-bottom: 5px;
+  }
+  
+  .show-results-button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    border: none;
+    background-color: #f50057; /* Myntra's pinkish theme color */
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .show-results-button:hover {
+    background-color: #ff4081; /* Lighter shade of Myntra's pink */
+  }
+  
+  .show-results-button:focus {
+    outline: none;
+  }
+  
+  .show-results-button:active {
+    transform: scale(0.95);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
