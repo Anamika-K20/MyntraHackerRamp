@@ -54,7 +54,7 @@ Welcome, fashion fans! Have you noticed that Myntra sometimes feels a bit too qu
 
 #### Poll Page
 
-![Pollpage Screenshot 1](https://github.com/Anamika-K20/MyntraHackerRamp/blob/master/ss2.jpg)
+![Pollpage Screenshot 1](https://github.com/Anamika-K20/MyntraHackerRamp/blob/master/sss.jpg)
 ![Pollpage Screenshot 2](https://github.com/Anamika-K20/MyntraHackerRamp/blob/master/ss1.jpg)
 
 #### Studio Page
