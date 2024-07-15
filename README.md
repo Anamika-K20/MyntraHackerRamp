@@ -1,2 +1,1 @@
-# MyntraHackerRamp
 # Team Code Quest
