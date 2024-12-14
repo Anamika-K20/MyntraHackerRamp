@@ -27,7 +27,7 @@ Welcome, fashion fans! Have you noticed that Myntra sometimes feels a bit too qu
    - **Outfit Styling Contests:** Introduce live polls on the Myntra platform where shoppers can participate in outfit styling contests. This interactive feature allows users to vote on their favorite outfits and potentially win rewards and discounts.
 
 3. **Social Media Content Integration**
-   - **Reels Integration:** Incorporate social media content and reels directly on Myntra. This integration provides customers with easy access to outfit inspiration without the need to visit multiple sites.
+   - **Reels Integration:** Integrate social media posts and short video reels directly into the Myntra platform. This integration provides customers with easy access to outfit inspiration without the need to visit multiple sites.
 
 ### Benefits
 
